@@ -2,9 +2,9 @@
 
 **中文** ｜ [English](README.en.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) [![Built with FlyThings MCP](https://img.shields.io/badge/Built%20with-FlyThings%20MCP-0A7AFF?style=flat-square)](https://github.com/KWolve/FlyThingsMCP)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) [![Built with FlyThings MCP](https://img.shields.io/badge/Built%20with-FlyThings%20MCP-0A7AFF?style=flat-square)](https://github.com/zkswe/mcp_release)
 
-> **GitHub 主仓** <https://github.com/KWolve/PocketGame> ｜ **Gitee 镜像** <https://gitee.com/Kwolve/PocketGame>
+> **GitHub 主仓** <https://github.com/zkswe/pocketgame> ｜ **Gitee 镜像** <https://gitee.com/Kwolve/PocketGame>
 
 ---
 
@@ -168,13 +168,13 @@ ITER=1 tools/upgrade_device.sh    # 快速迭代：只推临时目录，不刷�
 
 | 用途 | 路径 |
 |---|---|
-| **release 版（用户获取 / 安装处，主）** | <https://github.com/KWolve/FlyThingsMCP> |
+| **release 版（用户获取 / 安装处，主）** | <https://github.com/zkswe/mcp_release> |
 | 国内镜像（Gitee） | <https://gitee.com/Kwolve/flythingsmcp_release> |
 | 本机路径（同工作区校验用，可选） | `tools/FlyThings_mcp_release/` |
 
 安装与接入方式以该 release 仓的 README 为准（当前 release 版本 `0.27.134-open`，43 个工具）。
 
-**最快上手**：对 AI 说 → 「帮我克隆并安装 `https://github.com/KWolve/FlyThingsMCP`」。
+**最快上手**：对 AI 说 → 「帮我克隆并安装 `https://github.com/zkswe/mcp_release`」。
 
 ---
 

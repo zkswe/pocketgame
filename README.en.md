@@ -2,9 +2,9 @@
 
 [中文](README.md) ｜ **English**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) [![Built with FlyThings MCP](https://img.shields.io/badge/Built%20with-FlyThings%20MCP-0A7AFF?style=flat-square)](https://github.com/KWolve/FlyThingsMCP)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) [![Built with FlyThings MCP](https://img.shields.io/badge/Built%20with-FlyThings%20MCP-0A7AFF?style=flat-square)](https://github.com/zkswe/mcp_release)
 
-> **GitHub (primary)** <https://github.com/KWolve/PocketGame> ｜ **Gitee mirror** <https://gitee.com/Kwolve/PocketGame>
+> **GitHub (primary)** <https://github.com/zkswe/pocketgame> ｜ **Gitee mirror** <https://gitee.com/Kwolve/PocketGame>
 
 ---
 
@@ -172,13 +172,13 @@ Its **release build is maintained and published separately**; this repo only ref
 
 | Purpose | Path |
 |---|---|
-| **Release version (where users get it, primary)** | <https://github.com/KWolve/FlyThingsMCP> |
+| **Release version (where users get it, primary)** | <https://github.com/zkswe/mcp_release> |
 | China mirror (Gitee) | <https://gitee.com/Kwolve/flythingsmcp_release> |
 | Local path (same workspace, for verification, optional) | `tools/FlyThings_mcp_release/` |
 
 Install and integration steps follow that release repo's README (current release `0.27.134-open`, 43 tools).
 
-**Fastest start**: tell your AI → "clone and install `https://github.com/KWolve/FlyThingsMCP`".
+**Fastest start**: tell your AI → "clone and install `https://github.com/zkswe/mcp_release`".
 
 ---
 
